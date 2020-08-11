@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/AndroidBundle/AndroidBundleScene.fire",orientation:"",jsList:[],bundleVers:{WebBundle:"1878e",internal:"45e63",main:"5c825"}};
